@@ -1,5 +1,5 @@
-# Guess word game smart contract on TON network using Tact
-
+# Guess word game 
+## Smart contract on TON network using Tact
 ## Project structure
 
 -   `contracts` - source code of all the smart contracts of the project and their dependencies.
