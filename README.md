@@ -1,4 +1,4 @@
-# TonSmartContract
+# Guess word game smart contract on TON network using Tact
 
 ## Project structure
 
